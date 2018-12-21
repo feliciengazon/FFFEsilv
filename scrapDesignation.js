@@ -9,7 +9,7 @@ try {
       .wait('#username')
       .wait(50)
       .insert('#username','felicien.gazon@gmail.com');
-      .insert('#password','Mpby78370lur');
+      .insert('#password','M***********');
       .wait(50)
       .click("#_submit");
       .goto('https://www.fff.fr/myfff/designations');
